@@ -1,7 +1,7 @@
-Nama: Immanuel Yofi Zakarias Manafe
-NIM : 19.11.2737
+### Nama: Immanuel Yofi Zakarias Manafe
+### NIM : 19.11.2737
 
-#Study Cashier
+# Study Cashier
 Aplikasi kasir sesuai yang diberikan dosen untuk tugas UAS. Aplikasi ini mempunyai fungsi seperti melihat daftar makanan, pembelian makanan serta pemakaian voucher pada pembelian makanan
 ## Scope and Functionalities
 - User dapat melihat daftar makanan yang ditawarkan
